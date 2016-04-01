@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="backdrop_image_path">http://image.tmdb.org/t/p/w500</string>
+    <string name="thumbnail_base_path">http://api.themoviedb.org/3/movie/</string>
+    <string name="top_rated_path">top_rated</string>
+    <string name="popular_path">popular</string>
+    <string name="api_key_param">api_key</string>
+    <string name="api_key_value">80d7d2003db07e58f2cdd782ca5f546b</string>
+
+</resources>
